@@ -1,0 +1,15 @@
+# Mac Specific
+.DS_Store
+
+# Zephyr
+*/zephyr/
+*/bootloader/
+*/build/
+*/modules
+*/tools
+
+# Misc
+**/.west
+**/.claude
+**/.venv
+**/*cache*
