@@ -1,0 +1,3 @@
+[submodule "openOCD-wireless"]
+	path = openOCD-wireless
+	url = https://github.com/sarpuser/openOCD-wireless.git
